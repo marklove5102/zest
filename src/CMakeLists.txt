@@ -1,7 +1,6 @@
 find_package(glm CONFIG REQUIRED)
 find_package(concurrentqueue CONFIG REQUIRED)
 find_package(SDL3 CONFIG REQUIRED)
-find_package(fmt CONFIG REQUIRED)
 find_package(Vulkan REQUIRED)
 find_package(Stb REQUIRED)
 find_path(TINYDIR_INCLUDE_DIR "tinydir.h")
